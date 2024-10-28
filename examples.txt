@@ -1,0 +1,6 @@
+query = "How can I share my W&B report with my team members in a public W&B project?"
+
+
+result = "You can share your report with your team members by selecting the Share button on the upper right hand corner.  You
+can either provide an email account or copy the magic link. Users invited by email will need to log into Weights & 
+Biases to view the report. Users who are given a magic link to not need to log into Weights & Biases."
